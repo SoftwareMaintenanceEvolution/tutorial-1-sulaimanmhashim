@@ -6,7 +6,7 @@ practices and how to work with legacy systems.
 - **Fun fact**: I love playing video games in my free time.
 - **Course expectations**: To gain hands-on experience in
 maintaining and evolving software.
-[![My Image](./Sulaiman.png)](https://www.youtube.com/shorts/7nDHvWu84-0) <!-- Link to the uploaded image -->
+[![My Image](./Sulaiman.png)](https://www.youtube.com/watch?v=DwUHazWvDjE)
 
 ## GitHub Profile
 You can view my personalized GitHub profile
