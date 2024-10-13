@@ -8,8 +8,6 @@ practices and how to work with legacy systems.
 maintaining and evolving software.
 [![My Image](./Sulaiman.png)](https://www.youtube.com/shorts/7nDHvWu84-0) <!-- Link to the uploaded image -->
 
-(reference: https://youtu.be/DwUHazWvDjE?si=59g3E_RRO-cozmMA)
-
 ## GitHub Profile
 You can view my personalized GitHub profile
 [here](https://github.com/sulaimanmhashim).
